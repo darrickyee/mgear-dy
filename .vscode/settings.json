@@ -1,0 +1,11 @@
+{
+  "python.pythonPath": "c:\\Program Files\\Autodesk\\Maya2020\\bin\\mayapy.exe",
+  "python.analysis.extraPaths": [
+    "C:\\Users\\Darrick\\Documents\\maya\\2020\\devkit\\pymel\\extras\\completion\\py",
+    "C:\\Users\\Darrick\\Documents\\maya\\modules\\scripts"
+  ],
+  "[python]": {
+    "gitlens.codeLens.symbolScopes": ["!Module"],
+    "editor.wordBasedSuggestions": false
+  }
+}
